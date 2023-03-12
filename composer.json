@@ -1,17 +1,17 @@
 {
-    "name": "bernskioldmedia/laravel-harvest",
+    "name": "kapio-dev/harvestapi",
     "description": "This is an API wrapper class for the Harvest Time Tracking API.",
     "keywords": [
-        "bernskioldmedia",
+        "kapio",
         "laravel",
         "laravel-harvest"
     ],
-    "homepage": "https://github.com/bernskioldmedia/laravel-harvest",
+    "homepage": "https://github.com/kapio-dev/harvestapi",
     "license": "MIT",
     "authors": [
         {
-            "name": "Bernskiold Media",
-            "email": "hello@bernskioldmedia.com",
+            "name": "kapio DEV",
+            "email": "hallo@kapio.eu    ",
             "role": "Developer"
         }
     ],
